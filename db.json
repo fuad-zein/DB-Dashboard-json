@@ -1,0 +1,34 @@
+{
+  "order": [
+    {
+      "id": "1",
+      "customer": "doni",
+      "income": 30000,
+      "sold": 2
+    },
+    {
+      "id": "2",
+      "customer": "fuad",
+      "income": 40000,
+      "sold": 4
+    }
+  ],
+
+  
+  "dashboard": [
+    {
+      "id": "1",
+      "goodsname": "samsung tv",
+      "date": "2017-01-01",
+      "price": 20000,
+      "status": "delivered"
+    },
+    {
+      "id": "2",
+      "goodsname": "samsung hp",
+      "date": "2017-02-01",
+      "price": 30000,
+      "status": "cancelled"
+    }
+  ]
+}
